@@ -1,0 +1,41 @@
+@charset 'utf-8';
+
+/* open-sans-regular - latin-ext_latin */
+@font-face
+{
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), local('Open Sans'),
+       url('/assets/fonts/open-sans-v17-latin-ext_latin-regular.woff2') format('woff2');
+}
+
+html, body
+{
+    height: 100%;
+}
+
+body
+{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+}
+
+.box
+{
+    box-sizing: border-box;
+}
+
+main
+{
+    flex: 1;
+}
+
+footer
+{
+    text-align: center;
+    font-size: 0.8em;
+}
