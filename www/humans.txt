@@ -1,0 +1,9 @@
+/* TEAM */
+ Me: Hello, this website has been made by a human :)
+
+/* SITE */
+ Last update: 2020-11-21
+ Language: English / French
+ Doctype: HTML5
+ IDE: Nano, SFTP, Tmux, SSH
+ 
