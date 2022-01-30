@@ -1,0 +1,3 @@
+[submodule "paste"]
+	path = paste
+	url = git@github.com:Equinox4/paste.git
