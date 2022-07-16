@@ -4,6 +4,6 @@
     branch = main
 
 [submodule "cloud"]
-	path = cloud
-	url = git@github.com:Equinox4/cloud.git
+    path = cloud
+    url = git@github.com:Equinox4/cloud.git
     branch = main
